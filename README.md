@@ -115,5 +115,3 @@ SASTRA Deemed University, Thanjavur
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-*Part of the Bio-GRID AMR Atlas ecosystem — AMRfold | AMRscape | AMRnetwork | StruSel*
