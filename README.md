@@ -96,7 +96,7 @@ If you use StruSel, please cite:
 
 > Pranavathiyani G. StruSel: Structurome-wide Selectivity of pathogen-exclusive targets. GitHub. https://github.com/pranavathiyani/strusel
 
-*Manuscript in preparation.*
+<!--*Manuscript in preparation.* -->
 
 ---
 
