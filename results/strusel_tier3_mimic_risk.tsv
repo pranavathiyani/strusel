@@ -1,0 +1,896 @@
+accession	category	label	seq_hit	pident	tm_score	struct_hit	is_mimic	esm2_cos	essential	amr_associated
+A0A0H3GJ91	C2	Partial structural mimic	False		0.4886	True	True	0.8505	True	False
+A0A0H3GSK4	C	Structural mimic	False		0.842	True	False	0.9796	True	False
+A0A0H3GLT4	C	Structural mimic	False		0.587	True	False	0.9808	True	False
+A0A0H3GLT2	C	Structural mimic	False		0.6708	True	False	0.9599	True	False
+A0A0H3GV68	C	Structural mimic	False		0.9218	True	False	0.9267	True	False
+A0A0H3GMI6	C	Structural mimic	False		0.5943	True	False	0.9772	True	False
+A0A0H3GMW9	C	Structural mimic	False		0.521	True	False	0.9729	True	False
+A0A0H3GL61	C2	Partial structural mimic	False		0.461	True	True	0.9688	True	False
+A0A0H3GUI6	C	Structural mimic	False		0.7849	True	False	0.95	True	False
+A0A0H3GQZ5	C2	Partial structural mimic	False		0.4972	True	True	0.9684	True	False
+A0A0H3GPM5	C	Structural mimic	False		0.7446	True	False	0.968	True	False
+A0A0H3GQT6	C	Structural mimic	False		0.6459	True	False	0.9234	True	False
+A0A0H3GPU3	C	Structural mimic	False		0.614	True	False	0.9367	True	False
+A0A0H3GRX8	C	Structural mimic	False		0.6113	True	False	0.9422	True	False
+A0A0H3GRU8	C	Structural mimic	False		0.8283	True	False	0.9467	True	False
+A0A0H3GWE1	C	Structural mimic	False		0.6342	True	False	0.9715	True	False
+A0A0H3GRN0	C	Structural mimic	False		0.5555	True	False	0.9711	True	False
+A0A0H3H016	C2	Partial structural mimic	False		0.4884	True	True	0.8512	True	False
+A0A0H3GID0	C	Structural mimic	False		0.7758	True	False	0.9689	True	False
+A0A0H3GXV3	C	Structural mimic	False		0.5857	True	False	0.9487	True	False
+A0A0H3GQD7	C	Structural mimic	False		0.5129	True	False	0.9713	True	False
+A0A0H3GTR1	C	Structural mimic	False		0.8302	True	False	0.943	True	False
+A0A0H3GG62	C	Structural mimic	False		0.584	True	False	0.9359	True	False
+A0A0H3GY20	C	Structural mimic	False		0.7898	True	False	0.9771	True	False
+A0A0H3GR22	C	Structural mimic	False		0.7089	True	False	0.9705	True	False
+A0A0H3GJV8	C	Structural mimic	False		0.5358	True	False	0.9818	True	False
+A0A0H3GYK3	C2	Partial structural mimic	False		0.4209	True	True	0.9181	True	False
+A0A0H3GXS5	C	Structural mimic	False		0.7474	True	False	0.9671	True	False
+A0A0H3GM01	C	Structural mimic	False		0.7094	True	False	0.9262	True	False
+A0A0H3GUG4	C	Structural mimic	False		0.7861	True	False	0.9747	True	False
+A0A0H3GQP2	C	Structural mimic	False		0.6087	True	False	0.9809	True	False
+A0A0H3GR93	C	Structural mimic	False		0.8253	True	False	0.9464	True	False
+A0A0H3GJA6	C	Structural mimic	False		0.9201	True	False	0.9744	True	False
+A0A0H3GJB4	C2	Partial structural mimic	False		0.4156	True	True	0.9446	True	False
+A0A0H3GMC6	C	Structural mimic	False		0.8179	True	False	0.9723	True	False
+A0A0H3GSW1	C	Structural mimic	False		0.764	True	False	0.9833	True	False
+A0A0H3GQX9	C	Structural mimic	False		0.6891	True	False	0.9642	True	False
+A0A0H3GIC7	C2	Partial structural mimic	False		0.4463	True	True	0.9846	True	False
+A0A0H3GLN5	C	Structural mimic	False		0.6708	True	False	0.9835	True	False
+A0A0H3GGG7	C	Structural mimic	False		0.8969	True	False	0.9073	True	False
+A0A0H3GN28	C	Structural mimic	False		0.552	True	False	0.9712	True	False
+A0A0H3GQN7	C	Structural mimic	False		0.6146	True	False	0.9667	True	False
+A0A0H3H117	C	Structural mimic	False		0.7242	True	False	0.9582	True	False
+A0A0H3GV33	C2	Partial structural mimic	False		0.3737	True	True	0.9891	True	False
+A0A0H3GQX7	C	Structural mimic	False		0.7251	True	False	0.9835	True	False
+A0A0H3GQY5	C	Structural mimic	False		0.6646	True	False	0.9655	True	False
+A0A0H3GZ82	C	Structural mimic	False		0.7216	True	False	0.9433	True	False
+A0A0H3GH98	C	Structural mimic	False		0.6261	True	False	0.98	True	False
+A0A0H3GRT7	C	Structural mimic	False		0.8442	True	False	0.9663	True	False
+A0A0H3GN30	C2	Partial structural mimic	False		0.4878	True	True	0.9718	True	False
+A0A0H3GPX8	C	Structural mimic	False		0.6228	True	False	0.9616	True	False
+A0A0H3GZI0	C	Structural mimic	False		0.8516	True	False	0.9671	True	False
+A0A0H3GV86	C	Structural mimic	False		0.675	True	False	0.9789	True	False
+A0A0H3GK19	C2	Partial structural mimic	False		0.305	True	True	0.9672	True	False
+A0A0H3GV85	C2	Partial structural mimic	False		0.4216	True	True	0.9891	True	False
+A0A0H3GRH4	C	Structural mimic	False		0.6129	True	False	0.959	True	False
+A0A0H3GMW8	C2	Partial structural mimic	False		0.3116	True	True	0.9429	True	False
+A0A0H3GPP3	C2	Partial structural mimic	False		0.4496	True	True	0.9897	True	False
+A0A0H3H3Z1	C	Structural mimic	False		0.9248	True	False	0.9762	True	False
+A0A0H3GPS6	C	Structural mimic	False		0.8769	True	False	0.9074	True	False
+A0A0H3GV07	C	Structural mimic	False		0.702	True	False	0.9689	True	False
+A0A0H3H049	C	Structural mimic	False		0.7343	True	False	0.988	True	False
+A0A0H3GTE2	C	Structural mimic	False		0.7148	True	False	0.9681	True	False
+A0A0H3GQ40	C2	Partial structural mimic	False		0.3657	True	True	0.9859	True	False
+A0A0H3GW58	C	Structural mimic	False		0.7595	True	False	0.9722	True	False
+A0A0H3GLF2	C	Structural mimic	False		0.8557	True	False	0.9435	True	False
+A0A0H3GGM9	C2	Partial structural mimic	False		0.3116	True	True	0.8748	True	False
+A0A0H3GXA5	C	Structural mimic	False		0.8281	True	False	0.9822	True	False
+A0A0H3GYI5	C	Structural mimic	False		0.5408	True	False	0.966	True	False
+A0A0H3GTS8	C	Structural mimic	False		0.6152	True	False	0.9225	True	False
+A0A0H3H1M1	C	Structural mimic	False		0.5299	True	False	0.9557	True	False
+A0A0H3GWQ5	C	Structural mimic	False		0.7535	True	False	0.9616	True	False
+A0A0H3H3W4	C	Structural mimic	False		0.6842	True	False	0.9832	True	False
+A0A0H3GQ97	C	Structural mimic	False		0.6979	True	False	0.9685	True	False
+A0A0H3GP76	C	Structural mimic	False		0.8511	True	False	0.9694	True	False
+A0A0H3GR40	C	Structural mimic	False		0.8903	True	False	0.9863	True	False
+A0A0H3GSH7	C	Structural mimic	False		0.7513	True	False	0.9444	True	False
+A0A0H3GTT0	C	Structural mimic	False		0.8229	True	False	0.9687	True	False
+A0A0H3H0Z7	C	Structural mimic	False		0.5714	True	False	0.9617	True	False
+A0A0H3GLZ2	C	Structural mimic	False		0.5596	True	False	0.9356	True	False
+A0A0H3GZ27	C2	Partial structural mimic	False		0.4001	True	True	0.8847	True	False
+A0A0H3GT65	C	Structural mimic	False		0.6107	True	False	0.8933	True	False
+A0A0H3GR15	C2	Partial structural mimic	False		0.4398	True	True	0.9799	True	False
+A0A0H3GNG6	C	Structural mimic	False		0.5871	True	False	0.9859	True	False
+A0A0H3GRB5	C	Structural mimic	False		0.6866	True	False	0.9781	True	False
+A0A0H3GSN0	C	Structural mimic	False		0.6291	True	False	0.9714	True	False
+A0A0H3GRG8	C	Structural mimic	False		0.6234	True	False	0.9537	True	False
+A0A0H3GJ37	C	Structural mimic	False		0.8635	True	False	0.9656	True	False
+A0A0H3H0J1	C	Structural mimic	False		0.6296	True	False	0.962	True	False
+A0A0H3GUH6	C	Structural mimic	False		0.6555	True	False	0.969	True	False
+A0A0H3GX39	C	Structural mimic	False		0.6055	True	False	0.9697	True	False
+A0A0H3GQL6	C	Structural mimic	False		0.7392	True	False	0.9829	True	False
+A0A0H3GJK2	C2	Partial structural mimic	False		0.4168	True	True		True	False
+A0A0H3GUD5	C	Structural mimic	False		0.6725	True	False	0.8547	True	False
+A0A0H3H3G3	C	Structural mimic	False		0.6249	True	False	0.9258	True	False
+A0A0H3GIT2	C	Structural mimic	False		0.6546	True	False	0.9771	True	False
+A0A0H3GLD7	C	Structural mimic	False		0.7537	True	False	0.9369	True	False
+A0A0H3GTR0	C	Structural mimic	False		0.7103	True	False	0.9815	True	False
+A0A0H3GJM2	C	Structural mimic	False		0.7154	True	False	0.9829	True	False
+A0A0H3GHX5	C	Structural mimic	False		0.8529	True	False	0.937	True	False
+A0A0H3GNW2	C2	Partial structural mimic	False		0.3616	True	True	0.8675	True	False
+A0A0H3GR26	C	Structural mimic	False		0.7904	True	False	0.9697	True	False
+A0A0H3GKB6	C2	Partial structural mimic	False		0.3271	True	True	0.9465	True	False
+A0A0H3H038	C2	Partial structural mimic	False		0.3641	True	True	0.906	True	False
+A0A0H3GSA1	C	Structural mimic	False		0.5557	True	False	0.9497	True	False
+A0A0H3GVB1	C2	Partial structural mimic	False		0.4368	True	True	0.9538	True	False
+A0A0H3GQM4	C2	Partial structural mimic	False		0.4655	True	True	0.975	True	False
+A0A0H3GTP1	C	Structural mimic	False		0.6155	True	False	0.9811	True	False
+A0A0H3GYR1	C	Structural mimic	False		0.6977	True	False	0.9455	True	False
+A0A0H3GMS2	C	Structural mimic	False		0.6584	True	False	0.9307	True	False
+A0A0H3GM02	C	Structural mimic	False		0.7059	True	False	0.9813	True	False
+A0A0H3GNP4	C2	Partial structural mimic	False		0.4046	True	True		True	False
+A0A0H3H3F4	C	Structural mimic	False		0.5988	True	False	0.9741	True	False
+A0A0H3GU58	C	Structural mimic	False		0.536	True	False	0.9786	True	False
+A0A0H3GS34	C2	Partial structural mimic	False		0.3645	True	True	0.9321	True	False
+A0A0H3GL55	C	Structural mimic	False		0.9038	True	False	0.9783	True	False
+A0A0H3GZS7	C	Structural mimic	False		0.714	True	False	0.9556	True	False
+A0A0H3GH01	C	Structural mimic	False		0.7347	True	False	0.9823	True	False
+A0A0H3H4D8	C	Structural mimic	False		0.8669	True	False	0.9391	True	False
+A0A0H3GZG2	C	Structural mimic	False		0.8536	True	False	0.976	True	False
+A0A0H3H069	C	Structural mimic	False		0.7504	True	False	0.9611	True	False
+A0A0H3GGT9	C	Structural mimic	False		0.9788	True	False	0.9933	True	False
+A0A0H3GMU4	C	Structural mimic	False		0.8088	True	False	0.9823	True	False
+A0A0H3H447	C	Structural mimic	False		0.5589	True	False	0.9826	True	False
+A0A0H3GLN8	C	Structural mimic	False		0.7563	True	False	0.9515	True	False
+A0A0H3GWM9	C	Structural mimic	False		0.958	True	False	0.9882	True	False
+A0A0H3GW19	C	Structural mimic	False		0.5105	True	False	0.9894	True	False
+A0A0H3GXB9	C	Structural mimic	False		0.7079	True	False	0.9818	True	False
+A0A0H3GXL3	C	Structural mimic	False		0.5688	True	False	0.9713	True	False
+A0A0H3GW84	C	Structural mimic	False		0.8176	True	False	0.9517	True	False
+A0A0H3GQL2	C	Structural mimic	False		0.9061	True	False	0.9685	True	False
+A0A0H3GKD9	C	Structural mimic	False		0.9446	True	False	0.9691	True	False
+A0A0H3GHY0	C2	Partial structural mimic	False		0.4605	True	True	0.9628	True	False
+A0A0H3GLF3	C	Structural mimic	False		0.823	True	False	0.9641	True	False
+A0A0H3H4I2	C2	Partial structural mimic	False		0.4356	True	True	0.916	True	False
+A0A0H3GP00	C	Structural mimic	False		0.7054	True	False	0.9573	True	False
+A0A0H3GHD6	C	Structural mimic	False		0.5243	True	False	0.9446	True	False
+A0A0H3GYB8	C	Structural mimic	False		0.8182	True	False	0.9879	True	False
+A0A0H3GMT8	C2	Partial structural mimic	False		0.3169	True	True	0.983	True	False
+A0A0H3H0Q7	C	Structural mimic	False		0.7214	True	False	0.971	True	False
+A0A0H3GQ64	C2	Partial structural mimic	False		0.4362	True	True	0.9707	True	False
+A0A0H3GGW4	C	Structural mimic	False		0.5546	True	False	0.8933	True	False
+A0A0H3GPZ2	C2	Partial structural mimic	False		0.4519	True	True	0.9711	True	False
+A0A0H3GQ38	C	Structural mimic	False		0.7582	True	False	0.9527	True	False
+A0A0H3GMU8	C	Structural mimic	False		0.6948	True	False	0.952	True	False
+A0A0H3GVR7	C	Structural mimic	False		0.8486	True	False	0.9853	True	False
+A0A0H3H3B2	C2	Partial structural mimic	False		0.4298	True	True	0.9696	True	False
+A0A0H3GN89	C	Structural mimic	False		0.7628	True	False	0.9451	True	False
+A0A0H3GT51	C	Structural mimic	False		0.6584	True	False	0.9852	True	False
+A0A0H3GSS4	C	Structural mimic	False		0.7417	True	False	0.9802	True	False
+A0A0H3GX16	C	Structural mimic	False		0.7138	True	False	0.9502	True	False
+A0A0H3GRX4	C	Structural mimic	False		0.9165	True	False	0.9793	True	False
+A0A0H3GV24	C	Structural mimic	False		0.8489	True	False	0.9551	True	False
+A0A0H3GSP6	C	Structural mimic	False		0.7269	True	False	0.9676	True	False
+A0A0H3GT04	C	Structural mimic	False		0.8274	True	False	0.9598	True	False
+A0A0H3GUB9	C	Structural mimic	False		0.7083	True	False	0.8947	True	False
+A0A0H3GUB1	C	Structural mimic	False		0.6434	True	False	0.9688	True	False
+A0A0H3GRF1	C	Structural mimic	False		0.8311	True	False	0.9577	True	False
+A0A0H3GL86	C	Structural mimic	False		0.7843	True	False	0.9565	True	False
+A0A0H3GW23	C	Structural mimic	False		0.7611	True	False	0.9717	True	False
+A0A0H3GMA7	C2	Partial structural mimic	False		0.4858	True	True	0.9692	True	False
+A0A0H3GLY0	C2	Partial structural mimic	False		0.4396	True	True	0.9615	True	False
+A0A0H3GPH9	C	Structural mimic	False		0.8016	True	False	0.9666	True	False
+A0A0H3GSV8	C	Structural mimic	False		0.6282	True	False	0.9763	True	False
+A0A0H3GVX4	C2	Partial structural mimic	False		0.4609	True	True	0.9836	True	False
+A0A0H3GJU2	C	Structural mimic	False		0.8344	True	False	0.9516	True	False
+A0A0H3GSE2	C	Structural mimic	False		0.8495	True	False	0.9713	True	False
+A0A0H3H138	C	Structural mimic	False		0.5265	True	False	0.9539	True	False
+A0A0H3GW04	C	Structural mimic	False		0.7848	True	False	0.959	True	False
+A0A0H3GMG1	C	Structural mimic	False		0.8425	True	False	0.9697	True	False
+A0A0H3GPU0	C2	Partial structural mimic	False		0.3766	True	True	0.8723	True	False
+A0A0H3GGK6	C	Structural mimic	False		0.7178	True	False	0.9644	True	False
+A0A0H3GTU0	C2	Partial structural mimic	False		0.3716	True	True	0.9529	True	False
+A0A0H3GXJ7	C	Structural mimic	False		0.7341	True	False	0.973	True	False
+A0A0H3GP74	C	Structural mimic	False		0.5151	True	False	0.9566	True	False
+A0A0H3GXG7	C	Structural mimic	False		0.5571	True	False	0.973	True	False
+A0A0H3GGI2	C	Structural mimic	False		0.5431	True	False	0.9652	True	False
+A0A0H3GI27	C	Structural mimic	False		0.7149	True	False	0.9791	True	False
+A0A0H3GW97	C	Structural mimic	False		0.7569	True	False	0.9507	True	False
+A0A0H3GJW2	C	Structural mimic	False		0.825	True	False	0.9777	True	False
+A0A0H3GYQ2	C2	Partial structural mimic	False		0.3194	True	True	0.8757	True	False
+A0A0H3GRS6	C	Structural mimic	False		0.9353	True	False	0.9254	True	False
+A0A0H3GU61	C	Structural mimic	False		0.6553	True	False	0.9773	True	False
+A0A0H3GP65	C2	Partial structural mimic	False		0.467	True	True	0.9577	True	False
+A0A0H3GNK2	C	Structural mimic	False		0.6509	True	False	0.9281	True	False
+A0A0H3GUJ9	C	Structural mimic	False		0.7684	True	False	0.9887	True	False
+A0A0H3GI03	C	Structural mimic	False		0.5372	True	False	0.9678	True	False
+A0A0H3GVP8	C	Structural mimic	False		0.8046	True	False	0.9329	True	False
+A0A0H3GLX2	C	Structural mimic	False		0.5486	True	False	0.9317	True	False
+A0A0H3GV99	C	Structural mimic	False		0.5744	True	False	0.9458	True	False
+A0A0H3GVT0	C	Structural mimic	False		0.5973	True	False	0.9796	True	False
+A0A0H3GZA9	C2	Partial structural mimic	False		0.3932	True	True	0.8813	True	False
+A0A0H3GS46	C	Structural mimic	False		0.5785	True	False	0.9903	True	False
+A0A0H3GJN5	C	Structural mimic	False		0.836	True	False	0.9779	True	False
+A0A0H3GW17	C	Structural mimic	False		0.536	True	False	0.9776	True	False
+A0A0H3GL09	C2	Partial structural mimic	False		0.4748	True	True	0.9871	True	False
+A0A0H3GMJ8	C	Structural mimic	False		0.8318	True	False	0.9791	True	False
+A0A0H3GZZ1	C	Structural mimic	False		0.839	True	False	0.9225	True	False
+A0A0H3H4I5	C2	Partial structural mimic	False		0.4921	True	True	0.9518	True	False
+A0A0H3GVY6	C	Structural mimic	False		0.9418	True	False	0.9875	True	False
+A0A0H3GPH6	C	Structural mimic	False		0.7346	True	False	0.9386	True	False
+A0A0H3GXS6	C	Structural mimic	False		0.6696	True	False	0.9197	True	False
+A0A0H3GWP8	C	Structural mimic	False		0.8308	True	False	0.9779	True	False
+A0A0H3GTY7	C2	Partial structural mimic	False		0.4471	True	True	0.9216	True	False
+A0A0H3GL69	C	Structural mimic	False		0.784	True	False	0.977	True	False
+A0A0H3GPK5	C2	Partial structural mimic	False		0.4165	True	True		True	False
+A0A0H3GLB7	C	Structural mimic	False		0.656	True	False	0.9847	True	False
+A0A0H3GRR0	C	Structural mimic	False		0.5959	True	False	0.9801	True	False
+A0A0H3GPF2	C2	Partial structural mimic	False		0.4074	True	True	0.8751	True	False
+A0A0H3GW65	C	Structural mimic	False		0.7499	True	False	0.9823	True	False
+A0A0H3GU90	C	Structural mimic	False		0.5778	True	False	0.9533	True	False
+A0A0H3GRE2	C	Structural mimic	False		0.7844	True	False	0.9777	True	False
+A0A0H3H084	C	Structural mimic	False		0.9375	True	False	0.972	True	False
+A0A0H3GKE3	C	Structural mimic	False		0.6714	True	False	0.9837	True	False
+A0A0H3GUQ7	C2	Partial structural mimic	False		0.3814	True	True	0.9749	True	False
+A0A0H3GTZ3	C2	Partial structural mimic	False		0.4074	True	True		True	False
+A0A0H3GUQ0	C2	Partial structural mimic	False		0.4493	True	True	0.9761	True	False
+A0A0H3GMQ9	C	Structural mimic	False		0.5513	True	False	0.9804	True	False
+A0A0H3GTL2	C	Structural mimic	False		0.6147	True	False	0.9337	True	False
+A0A0H3GWN8	C	Structural mimic	False		0.561	True	False	0.9746	True	False
+A0A0H3GP01	C	Structural mimic	False		0.6607	True	False	0.9835	True	False
+A0A0H3GVB0	C	Structural mimic	False		0.7012	True	False	0.9122	True	False
+A0A0H3GN61	C	Structural mimic	False		0.8502	True	False	0.9875	True	False
+A0A0H3GIH6	C	Structural mimic	False		0.8527	True	False	0.9504	True	False
+A0A0H3H1Z0	C	Structural mimic	False		0.5937	True	False	0.9307	True	False
+A0A0H3GL82	C	Structural mimic	False		0.6012	True	False	0.9789	True	False
+A0A0H3GPL5	C	Structural mimic	False		0.7296	True	False	0.9715	True	False
+A0A0H3GHC8	C2	Partial structural mimic	False		0.3425	True	True	0.9889	True	False
+A0A0H3GQ67	C	Structural mimic	False		0.8576	True	False	0.9667	True	False
+A0A0H3GMP8	C	Structural mimic	False		0.8612	True	False	0.9584	True	False
+A0A0H3GUP2	C2	Partial structural mimic	False		0.3356	True	True	0.95	True	False
+A0A0H3GTW0	C	Structural mimic	False		0.898	True	False	0.9867	True	False
+A0A0H3GKA9	C	Structural mimic	False		0.6312	True	False	0.9621	True	False
+A0A0H3H2G9	C2	Partial structural mimic	False		0.3101	True	True	0.9484	True	False
+A0A0H3H365	C2	Partial structural mimic	False		0.3705	True	True	0.9842	True	False
+A0A0H3GTT5	C	Structural mimic	False		0.7069	True	False	0.9675	True	False
+A0A0H3GYY9	C	Structural mimic	False		0.9371	True	False	0.9508	True	False
+A0A0H3GXH8	C2	Partial structural mimic	False		0.3994	True	True	0.8522	True	False
+A0A0H3GS85	C	Structural mimic	False		0.8724	True	False	0.9611	True	False
+A0A0H3GMJ9	C	Structural mimic	False		0.8067	True	False	0.9493	True	False
+A0A0H3GHE2	C	Structural mimic	False		0.6199	True	False	0.9463	True	False
+A0A0H3GR61	C2	Partial structural mimic	False		0.4957	True	True	0.9836	True	False
+A0A0H3GLU0	C	Structural mimic	False		0.8326	True	False	0.9433	True	False
+A0A0H3GZU3	C	Structural mimic	False		0.7142	True	False	0.8562	True	False
+A0A0H3GRC2	C	Structural mimic	False		0.7675	True	False	0.9758	True	False
+A0A0H3GPZ6	C	Structural mimic	False		0.591	True	False	0.9664	True	False
+A0A0H3GV18	C	Structural mimic	False		0.8719	True	False	0.974	True	False
+A0A0H3GKI2	C	Structural mimic	False		0.5682	True	False	0.983	True	False
+A0A0H3GP72	C	Structural mimic	False		0.575	True	False	0.9735	True	False
+A0A0H3GPE8	C	Structural mimic	False		0.6312	True	False	0.9388	True	False
+A0A0H3GM89	C	Structural mimic	False		0.7142	True	False	0.9884	True	False
+A0A0H3GXN1	C2	Partial structural mimic	False		0.3775	True	True	0.9785	True	False
+A0A0H3GLM8	C	Structural mimic	False		0.8509	True	False	0.9601	True	False
+A0A0H3GKN4	C	Structural mimic	False		0.8477	True	False	0.99	True	False
+A0A0H3GP29	C	Structural mimic	False		0.8828	True	False	0.9627	True	False
+A0A0H3GVZ1	C	Structural mimic	False		0.6046	True	False	0.9921	True	False
+A0A0H3GWG3	C	Structural mimic	False		0.7551	True	False	0.9219	True	False
+A0A0H3GUM6	C	Structural mimic	False		0.5953	True	False	0.8838	True	False
+A0A0H3GRB9	C	Structural mimic	False		0.6023	True	False	0.959	True	False
+A0A0H3GZA8	C	Structural mimic	False		0.9182	True	False	0.9843	True	False
+A0A0H3GQZ7	C	Structural mimic	False		0.7442	True	False	0.9558	True	False
+A0A0H3GYG2	C	Structural mimic	False		0.7229	True	False	0.9593	True	False
+A0A0H3GJR1	C	Structural mimic	False		0.8759	True	False	0.9782	True	False
+A0A0H3GLR1	C	Structural mimic	False		0.5822	True	False	0.9734	True	False
+A0A0H3GLH2	C	Structural mimic	False		0.798	True	False	0.9823	True	False
+A0A0H3GQR4	C2	Partial structural mimic	False		0.4367	True	True		True	False
+A0A0H3GT08	C	Structural mimic	False		0.8372	True	False	0.986	True	False
+A0A0H3GUP5	C	Structural mimic	False		0.8514	True	False	0.9745	True	False
+A0A0H3GVS7	C	Structural mimic	False		0.7767	True	False	0.8762	True	False
+A0A0H3GWX1	C2	Partial structural mimic	False		0.4571	True	True	0.9912	True	False
+A0A0H3GI16	C	Structural mimic	False		0.8368	True	False	0.8732	True	False
+A0A0H3GSH1	C	Structural mimic	False		0.5974	True	False	0.8442	True	False
+A0A0H3GYK0	C	Structural mimic	False		0.6456	True	False	0.9152	True	False
+A0A0H3GQU6	C	Structural mimic	False		0.84	True	False	0.9845	True	False
+A0A0H3GLC1	C	Structural mimic	False		0.8237	True	False	0.9307	True	False
+A0A0H3H1S5	C2	Partial structural mimic	False		0.455	True	True	0.8679	True	False
+A0A0H3GP98	C	Structural mimic	False		0.834	True	False	0.9763	True	False
+A0A0H3GYM3	C	Structural mimic	False		0.5082	True	False	0.9751	True	False
+A0A0H3GPR7	C	Structural mimic	False		0.88	True	False	0.9716	True	False
+A0A0H3GKA4	C	Structural mimic	False		0.6001	True	False	0.9445	True	False
+A0A0H3H237	C	Structural mimic	False		0.6695	True	False	0.9578	True	False
+A0A0H3GNE4	C	Structural mimic	False		0.5616	True	False	0.9691	True	False
+A0A0H3GX18	C2	Partial structural mimic	False		0.3753	True	True	0.9677	True	False
+A0A0H3GIN1	C	Structural mimic	False		0.8171	True	False	0.981	True	False
+A0A0H3GLQ0	C	Structural mimic	False		0.8535	True	False	0.9591	True	False
+A0A0H3GPY5	C	Structural mimic	False		0.8944	True	False	0.9919	True	False
+A0A0H3GSX4	C	Structural mimic	False		0.7449	True	False	0.979	True	False
+A0A0H3GVM8	C	Structural mimic	False		0.7875	True	False	0.9907	True	False
+A0A0H3GQ07	C	Structural mimic	False		0.6272	True	False	0.9535	True	False
+A0A0H3GW31	C	Structural mimic	False		0.8256	True	False	0.9208	True	False
+A0A0H3GS90	C	Structural mimic	False		0.8781	True	False	0.9805	True	False
+A0A0H3GL43	C	Structural mimic	False		0.8104	True	False	0.9747	True	False
+A0A0H3GU78	C2	Partial structural mimic	False		0.4769	True	True	0.9898	True	False
+A0A0H3GVJ3	C	Structural mimic	False		0.7422	True	False	0.8857	True	False
+A0A0H3GG89	C	Structural mimic	False		0.5262	True	False	0.9868	True	False
+A0A0H3GJV6	C	Structural mimic	False		0.6379	True	False	0.9233	True	False
+A0A0H3GM35	C2	Partial structural mimic	False		0.3151	True	True	0.9647	True	False
+A0A0H3GQM5	C	Structural mimic	False		0.9239	True	False	0.9904	True	False
+A0A0H3GZ22	C	Structural mimic	False		0.822	True	False	0.984	True	False
+A0A0H3GS19	C	Structural mimic	False		0.6307	True	False	0.9787	True	False
+A0A0H3GUM7	C	Structural mimic	False		0.8159	True	False	0.9691	True	False
+A0A0H3GUS2	C	Structural mimic	False		0.741	True	False	0.981	True	False
+A0A0H3GXI6	C	Structural mimic	False		0.6893	True	False	0.9819	True	False
+A0A0H3GX94	C	Structural mimic	False		0.8416	True	False	0.9589	True	False
+A0A0H3GQ09	C	Structural mimic	False		0.7917	True	False	0.9175	True	False
+A0A0H3GWS4	C	Structural mimic	False		0.7938	True	False	0.9756	True	False
+A0A0H3GRL0	C	Structural mimic	False		0.6188	True	False	0.9882	True	False
+A0A0H3GPH2	C	Structural mimic	False		0.5017	True	False	0.9708	True	False
+A0A0H3GK62	C	Structural mimic	False		0.5876	True	False	0.9867	True	False
+A0A0H3GH78	C	Structural mimic	False		0.8922	True	False	0.9713	True	False
+A0A0H3GNA4	C	Structural mimic	False		0.7431	True	False	0.9419	True	False
+A0A0H3GTG8	C	Structural mimic	False		0.7255	True	False	0.9088	True	False
+A0A0H3GNY0	C	Structural mimic	False		0.8343	True	False	0.9685	True	False
+A0A0H3GTY2	C2	Partial structural mimic	False		0.4335	True	True	0.9291	True	False
+A0A0H3GPH8	C2	Partial structural mimic	False		0.387	True	True	0.9707	True	False
+A0A0H3GPN4	C2	Partial structural mimic	False		0.305	True	True	0.9465	True	False
+A0A0H3GU53	C2	Partial structural mimic	False		0.4143	True	True		True	False
+A0A0H3GR24	C	Structural mimic	False		0.6173	True	False	0.9673	True	False
+A0A0H3GR97	C	Structural mimic	False		0.5963	True	False	0.9702	True	False
+A0A0H3GYU6	C	Structural mimic	False		0.8912	True	False	0.9689	True	False
+A0A0H3GT15	C	Structural mimic	False		0.8583	True	False	0.919	True	False
+A0A0H3GLS9	C	Structural mimic	False		0.7608	True	False	0.9529	True	False
+A0A0H3GS66	C	Structural mimic	False		0.7655	True	False	0.9837	True	False
+A0A0H3GZI3	C2	Partial structural mimic	False		0.4326	True	True	0.9712	True	False
+A0A0H3GJ43	C	Structural mimic	False		0.8636	True	False	0.9414	True	False
+A0A0H3GMA1	C	Structural mimic	False		0.7418	True	False	0.9356	True	False
+A0A0H3GLH6	C	Structural mimic	False		0.9203	True	False	0.9698	True	False
+A0A0H3GRA3	C	Structural mimic	False		0.8034	True	False	0.9605	True	False
+A0A0H3GY76	C	Structural mimic	False		0.8534	True	False	0.9276	True	False
+A0A0H3GJ60	C	Structural mimic	False		0.7183	True	False	0.977	True	False
+A0A0H3GIS2	C	Structural mimic	False		0.7991	True	False	0.9661	True	False
+A0A0H3GTD0	C2	Partial structural mimic	False		0.4266	True	True	0.9541	True	False
+A0A0H3GZ80	C2	Partial structural mimic	False		0.4018	True	True	0.9553	True	False
+A0A0H3GTX2	C	Structural mimic	False		0.7495	True	False	0.9529	True	False
+A0A0H3GRF2	C	Structural mimic	False		0.8368	True	False	0.9635	True	False
+A0A0H3GK13	C	Structural mimic	False		0.8329	True	False	0.9757	True	False
+A0A0H3GWS6	C	Structural mimic	False		0.7828	True	False	0.9878	True	False
+A0A0H3GNL4	C	Structural mimic	False		0.9208	True	False	0.9632	True	False
+A0A0H3GV20	C2	Partial structural mimic	False		0.4708	True	True	0.9873	True	False
+A0A0H3GT05	C	Structural mimic	False		0.8423	True	False	0.9427	True	False
+A0A0H3GT44	C2	Partial structural mimic	False		0.4805	True	True	0.9819	True	False
+A0A0H3GKU1	C2	Partial structural mimic	False		0.4879	True	True	0.9711	True	False
+A0A0H3GXC2	C	Structural mimic	False		0.742	True	False	0.9639	True	False
+A0A0H3GQ31	C	Structural mimic	False		0.719	True	False	0.9824	True	False
+A0A0H3GQ66	C	Structural mimic	False		0.7519	True	False	0.9519	True	False
+A0A0H3GQ44	C	Structural mimic	False		0.5311	True	False	0.9288	True	False
+A0A0H3GTP6	C2	Partial structural mimic	False		0.3616	True	True	0.8225	True	False
+A0A0H3GP43	C	Structural mimic	False		0.7917	True	False	0.9755	True	False
+A0A0H3GTC2	C	Structural mimic	False		0.6678	True	False	0.9124	True	False
+A0A0H3GMA8	C	Structural mimic	False		0.7422	True	False	0.966	True	False
+A0A0H3GPW8	C	Structural mimic	False		0.8018	True	False	0.9448	True	False
+A0A0H3GSQ9	C2	Partial structural mimic	False		0.4697	True	True	0.9852	True	False
+A0A0H3GJ97	C	Structural mimic	False		0.6699	True	False	0.8757	True	False
+A0A0H3GSH0	C	Structural mimic	False		0.5089	True	False	0.9413	True	False
+A0A0H3GQP9	C2	Partial structural mimic	False		0.4735	True	True	0.9674	True	False
+A0A0H3GMJ3	C	Structural mimic	False		0.6542	True	False	0.8736	True	False
+A0A0H3GTN8	C	Structural mimic	False		0.5822	True	False	0.9463	True	False
+A0A0H3GK70	C	Structural mimic	False		0.8483	True	False	0.9649	True	False
+A0A0H3GV19	C	Structural mimic	False		0.7526	True	False	0.9836	True	False
+A0A0H3GTU7	C	Structural mimic	False		0.9319	True	False	0.9894	True	False
+A0A0H3GYH9	C	Structural mimic	False		0.6289	True	False	0.9548	True	False
+A0A0H3GL15	C2	Partial structural mimic	False		0.4529	True	True	0.9613	True	False
+A0A0H3GMV9	C	Structural mimic	False		0.566	True	False	0.9388	True	False
+A0A0H3GYB0	C	Structural mimic	False		0.8643	True	False	0.9842	True	False
+A0A0H3GZM8	C	Structural mimic	False		0.6587	True	False	0.8692	True	False
+A0A0H3GXD7	C	Structural mimic	False		0.542	True	False	0.9738	True	False
+A0A0H3GLK6	C	Structural mimic	False		0.8428	True	False	0.9782	True	False
+A0A0H3GS31	C	Structural mimic	False		0.6491	True	False	0.9382	True	False
+A0A0H3GTR4	C2	Partial structural mimic	False		0.4345	True	True	0.98	True	False
+A0A0H3H346	C	Structural mimic	False		0.8827	True	False	0.9535	True	False
+A0A0H3GSE8	C	Structural mimic	False		0.8247	True	False	0.9806	True	False
+A0A0H3GZC5	C	Structural mimic	False		0.5397	True	False	0.967	True	False
+A0A0H3GKM3	C2	Partial structural mimic	False		0.4405	True	True	0.9567	True	False
+A0A0H3GQX4	C2	Partial structural mimic	False		0.3672	True	True	0.9683	True	False
+A0A0H3GIR4	C2	Partial structural mimic	False		0.4917	True	True	0.944	True	False
+A0A0H3GGT7	C	Structural mimic	False		0.755	True	False	0.9865	True	False
+A0A0H3H341	C	Structural mimic	False		0.5948	True	False	0.9689	True	False
+A0A0H3GPM9	C	Structural mimic	False		0.5596	True	False	0.9478	True	False
+A0A0H3GU70	C	Structural mimic	False		0.6381	True	False	0.9027	True	False
+A0A0H3GLR6	C2	Partial structural mimic	False		0.48	True	True	0.9478	True	False
+A0A0H3GI91	C2	Partial structural mimic	False		0.4636	True	True	0.8987	True	False
+A0A0H3GHC3	C2	Partial structural mimic	False		0.4511	True	True	0.9528	True	False
+A0A0H3H1E2	C	Structural mimic	False		0.5558	True	False	0.946	True	False
+A0A0H3GW42	C	Structural mimic	False		0.7847	True	False	0.9802	True	False
+A0A0H3GY66	C	Structural mimic	False		0.5019	True	False	0.9293	True	False
+A0A0H3GLW5	C	Structural mimic	False		0.5912	True	False	0.9762	True	False
+A0A0H3GIL6	C	Structural mimic	False		0.7706	True	False	0.9769	True	False
+A0A0H3GU74	C	Structural mimic	False		0.6834	True	False	0.8931	True	False
+A0A0H3GPT7	C	Structural mimic	False		0.5597	True	False	0.9399	True	False
+A0A0H3GIN9	C	Structural mimic	False		0.861	True	False	0.9738	True	False
+A0A0H3GML0	C2	Partial structural mimic	False		0.4818	True	True	0.8531	True	False
+A0A0H3GSL8	C	Structural mimic	False		0.8492	True	False	0.9789	True	False
+A0A0H3GIT5	C	Structural mimic	False		0.9402	True	False	0.9884	True	False
+A0A0H3GVZ4	C	Structural mimic	False		0.8473	True	False	0.9754	True	False
+A0A0H3GRK2	C2	Partial structural mimic	False		0.47	True	True	0.9853	True	False
+A0A0H3GKD5	C	Structural mimic	False		0.8053	True	False	0.9803	True	False
+A0A0H3GW60	C	Structural mimic	False		0.5996	True	False	0.9733	True	False
+A0A0H3GQN6	C	Structural mimic	False		0.6621	True	False	0.9348	True	False
+A0A0H3GWF8	C	Structural mimic	False		0.7938	True	False	0.9848	True	False
+A0A0H3GUU1	C	Structural mimic	False		0.9066	True	False	0.9841	True	False
+A0A0H3GXB4	C	Structural mimic	False		0.7923	True	False	0.9659	True	False
+A0A0H3H078	C	Structural mimic	False		0.7728	True	False	0.9582	True	False
+A0A0H3GMT0	C	Structural mimic	False		0.8273	True	False	0.9893	True	False
+A0A0H3GYW5	C2	Partial structural mimic	False		0.4135	True	True		True	False
+A0A0H3GND5	C	Structural mimic	False		0.8404	True	False	0.9799	True	False
+A0A0H3GXW7	C	Structural mimic	False		0.804	True	False	0.9797	True	False
+A0A0H3GPC4	C	Structural mimic	False		0.7662	True	False	0.9381	True	False
+A0A0H3GM28	C	Structural mimic	False		0.7695	True	False	0.9405	True	False
+A0A0H3GLU3	C	Structural mimic	False		0.8485	True	False	0.9693	True	False
+A0A0H3GH28	C	Structural mimic	False		0.8114	True	False	0.9833	True	False
+A0A0H3GPL1	C	Structural mimic	False		0.8483	True	False	0.9612	True	False
+A0A0H3GP52	C2	Partial structural mimic	False		0.498	True	True	0.7936	True	False
+A0A0H3GK97	C	Structural mimic	False		0.5484	True	False	0.9714	True	False
+A0A0H3GYP8	C	Structural mimic	False		0.7025	True	False	0.9524	True	False
+A0A0H3GUL0	C	Structural mimic	False		0.6493	True	False	0.9415	True	False
+A0A0H3GLF6	C	Structural mimic	False		0.8308	True	False	0.9909	True	False
+A0A0H3GUK2	C	Structural mimic	False		0.8099	True	False	0.973	True	False
+A0A0H3H2N5	C	Structural mimic	False		0.9023	True	False	0.9883	True	False
+A0A0H3GXH0	C	Structural mimic	False		0.7016	True	False	0.9876	True	False
+A0A0H3H3G8	C	Structural mimic	False		0.7871	True	False	0.9705	True	False
+A0A0H3GR80	C	Structural mimic	False		0.6326	True	False	0.9785	True	False
+A0A0H3GRV4	C	Structural mimic	False		0.762	True	False	0.904	True	False
+A0A0H3GYR4	C	Structural mimic	False		0.8614	True	False	0.9249	True	False
+A0A0H3GVS5	C	Structural mimic	False		0.7718	True	False	0.9581	True	False
+A0A0H3GMD5	C	Structural mimic	False		0.7427	True	False	0.9401	True	False
+A0A0H3GJ47	C	Structural mimic	False		0.6148	True	False	0.9301	True	False
+A0A0H3GXB2	C	Structural mimic	False		0.603	True	False	0.9412	True	False
+A0A0H3GWV9	C	Structural mimic	False		0.7722	True	False	0.9733	True	False
+A0A0H3GJ12	C	Structural mimic	False		0.5049	True	False	0.9857	True	False
+A0A0H3GNC7	C	Structural mimic	False		0.8688	True	False	0.9635	True	False
+A0A0H3GXG8	C	Structural mimic	False		0.7997	True	False	0.9834	True	False
+A0A0H3H259	C	Structural mimic	False		0.873	True	False	0.988	True	False
+A0A0H3GMI4	C	Structural mimic	False		0.5668	True	False	0.9667	True	False
+A0A0H3GXI7	C2	Partial structural mimic	False		0.3778	True	True	0.8895	True	False
+A0A0H3GUF8	C	Structural mimic	False		0.7636	True	False	0.9802	True	False
+A0A0H3GKL7	C	Structural mimic	False		0.5774	True	False	0.9282	True	False
+A0A0H3GX68	C	Structural mimic	False		0.8033	True	False	0.9701	True	False
+A0A0H3GPU2	C2	Partial structural mimic	False		0.4475	True	True	0.9631	True	False
+A0A0H3GJD2	C	Structural mimic	False		0.8443	True	False	0.9735	True	False
+A0A0H3GP87	C2	Partial structural mimic	False		0.4008	True	True	0.8764	True	False
+A0A0H3GRR9	C	Structural mimic	False		0.758	True	False	0.959	True	False
+A0A0H3GMZ9	C	Structural mimic	False		0.8919	True	False	0.9748	True	False
+A0A0H3GRR5	C	Structural mimic	False		0.8334	True	False	0.9786	True	False
+A0A0H3GWK7	C	Structural mimic	False		0.9375	True	False	0.97	True	False
+A0A0H3GNW9	C	Structural mimic	False		0.7242	True	False	0.9747	True	False
+A0A0H3GJ51	C	Structural mimic	False		0.8035	True	False	0.9145	True	False
+A0A0H3GY78	C	Structural mimic	False		0.8476	True	False	0.9698	True	False
+A0A0H3GKY9	C	Structural mimic	False		0.7064	True	False	0.9803	True	False
+A0A0H3GVD6	C	Structural mimic	False		0.7462	True	False	0.9511	True	False
+A0A0H3H1L7	C	Structural mimic	False		0.8244	True	False	0.9775	True	False
+A0A0H3GK53	C2	Partial structural mimic	False		0.4126	True	True	0.9161	True	False
+A0A0H3GM45	C	Structural mimic	False		0.8623	True	False	0.9774	True	False
+A0A0H3H326	C	Structural mimic	False		0.5625	True	False	0.9698	True	False
+A0A0H3GSV9	C	Structural mimic	False		0.7249	True	False	0.8835	True	False
+A0A0H3GV22	C	Structural mimic	False		0.7364	True	False	0.9038	True	False
+A0A0H3GU21	C	Structural mimic	False		0.7079	True	False	0.9819	True	False
+A0A0H3H074	C	Structural mimic	False		0.6673	True	False	0.9356	True	False
+A0A0H3H4P4	C	Structural mimic	False		0.821	True	False	0.9326	True	False
+A0A0H3GGX5	C	Structural mimic	False		0.7848	True	False	0.975	True	False
+A0A0H3GRV8	C	Structural mimic	False		0.6452	True	False	0.9449	True	False
+A0A0H3GRJ7	C2	Partial structural mimic	False		0.4487	True	True	0.939	True	False
+A0A0H3GR42	C2	Partial structural mimic	False		0.4075	True	True	0.9469	True	False
+A0A0H3GS49	C	Structural mimic	False		0.8797	True	False	0.9709	True	False
+A0A0H3GRU5	C	Structural mimic	False		0.6192	True	False	0.9664	True	False
+A0A0H3GR33	C	Structural mimic	False		0.8083	True	False	0.9297	True	False
+A0A0H3GPA8	C	Structural mimic	False		0.8844	True	False	0.9735	True	False
+A0A0H3GKU2	C	Structural mimic	False		0.7092	True	False	0.9618	True	False
+A0A0H3GH88	C	Structural mimic	False		0.5634	True	False	0.9635	True	False
+A0A0H3GXL1	C	Structural mimic	False		0.5912	True	False	0.9668	True	False
+A0A0H3GMF0	C	Structural mimic	False		0.5624	True	False	0.9528	True	False
+A0A0H3GSB1	C	Structural mimic	False		0.5792	True	False	0.9626	True	False
+A0A0H3GQQ7	C	Structural mimic	False		0.6878	True	False	0.9691	True	False
+A0A0H3GLR3	C	Structural mimic	False		0.7961	True	False	0.9714	True	False
+A0A0H3GWT7	C	Structural mimic	False		0.5088	True	False	0.8901	True	False
+A0A0H3H241	C	Structural mimic	False		0.7136	True	False	0.9689	True	False
+A0A0H3GND2	C	Structural mimic	False		0.5586	True	False	0.9851	True	False
+A0A0H3GVC9	C	Structural mimic	False		0.8404	True	False	0.9712	True	False
+A0A0H3GIP9	C	Structural mimic	False		0.6661	True	False	0.9566	True	False
+A0A0H3GLA9	C2	Partial structural mimic	False		0.4599	True	True	0.9055	True	False
+A0A0H3GMA2	C2	Partial structural mimic	False		0.4104	True	True	0.9729	True	False
+A0A0H3GS67	C	Structural mimic	False		0.5685	True	False	0.978	True	False
+A0A0H3H1X7	C	Structural mimic	False		0.6852	True	False	0.9751	True	False
+A0A0H3GT37	C	Structural mimic	False		0.6301	True	False	0.9851	True	False
+A0A0H3GY24	C	Structural mimic	False		0.838	True	False	0.9861	True	False
+A0A0H3GT74	C	Structural mimic	False		0.8605	True	False	0.9532	True	False
+A0A0H3GKY3	C	Structural mimic	False		0.7162	True	False	0.9076	True	False
+A0A0H3GH61	C	Structural mimic	False		0.751	True	False	0.9697	True	False
+A0A0H3GJ74	C2	Partial structural mimic	False		0.4861	True	True	0.9286	True	False
+A0A0H3GUL7	C	Structural mimic	False		0.7964	True	False	0.971	True	False
+A0A0H3GQ58	C	Structural mimic	False		0.5958	True	False	0.8664	True	False
+A0A0H3GQ05	C	Structural mimic	False		0.6008	True	False	0.9546	True	False
+A0A0H3H5F1	C	Structural mimic	False		0.8226	True	False	0.966	True	False
+A0A0H3GKT8	C2	Partial structural mimic	False		0.3965	True	True	0.9457	True	False
+A0A0H3GQN1	C	Structural mimic	False		0.5124	True	False	0.9861	True	False
+A0A0H3GPN2	C	Structural mimic	False		0.7106	True	False	0.9371	True	False
+A0A0H3GK80	C2	Partial structural mimic	False		0.3526	True	True	0.8869	True	False
+A0A0H3GP89	C2	Partial structural mimic	False		0.4468	True	True	0.9872	True	False
+A0A0H3GUF2	C2	Partial structural mimic	False		0.3867	True	True	0.9653	True	False
+A0A0H3GZ96	C	Structural mimic	False		0.7883	True	False	0.9691	True	False
+A0A0H3GYB6	C	Structural mimic	False		0.6027	True	False	0.9569	True	False
+A0A0H3GVX6	C	Structural mimic	False		0.8135	True	False	0.9749	True	False
+A0A0H3GYR9	C2	Partial structural mimic	False		0.4759	True	True	0.9324	True	False
+A0A0H3GUQ2	C	Structural mimic	False		0.9043	True	False	0.963	True	False
+A0A0H3GPD6	C	Structural mimic	False		0.7396	True	False	0.9558	True	False
+A0A0H3GXI0	C	Structural mimic	False		0.7659	True	False	0.947	True	False
+A0A0H3GIP4	C	Structural mimic	False		0.6306	True	False	0.9369	True	False
+A0A0H3GLG8	C	Structural mimic	False		0.8642	True	False	0.9551	True	False
+A0A0H3GRR7	C	Structural mimic	False		0.65	True	False	0.9619	True	False
+A0A0H3H4D0	C	Structural mimic	False		0.7895	True	False	0.9548	True	False
+A0A0H3GNJ2	C	Structural mimic	False		0.7883	True	False	0.945	True	False
+A0A0H3GZM1	C	Structural mimic	False		0.6206	True	False	0.966	True	False
+A0A0H3GY63	C	Structural mimic	False		0.8452	True	False	0.9853	True	False
+A0A0H3H101	C	Structural mimic	False		0.7407	True	False	0.9542	True	False
+A0A0H3GK99	C	Structural mimic	False		0.6449	True	False	0.9156	True	False
+A0A0H3GME8	C	Structural mimic	False		0.951	True	False		True	False
+A0A0H3GLB3	C	Structural mimic	False		0.7194	True	False	0.9395	True	False
+A0A0H3H1G0	C	Structural mimic	False		0.7593	True	False	0.9848	True	False
+A0A0H3GTQ8	C	Structural mimic	False		0.579	True	False	0.9109	True	False
+A0A0H3GKC6	C	Structural mimic	False		0.58	True	False	0.9545	True	False
+A0A0H3GRB2	C2	Partial structural mimic	False		0.433	True	True	0.9509	True	False
+A0A0H3GQD8	C	Structural mimic	False		0.8225	True	False	0.9637	True	False
+A0A0H3H216	C	Structural mimic	False		0.5736	True	False	0.9589	True	False
+A0A0H3GX24	C	Structural mimic	False		0.6845	True	False	0.954	True	False
+A0A0H3GJS5	C	Structural mimic	False		0.8986	True	False	0.9843	True	False
+A0A0H3GQZ3	C	Structural mimic	False		0.8543	True	False	0.9833	True	False
+A0A0H3GVU0	C	Structural mimic	False		0.7952	True	False	0.9369	True	False
+A0A0H3GTP8	C	Structural mimic	False		0.8196	True	False	0.9646	True	False
+A0A0H3GVV7	C	Structural mimic	False		0.9161	True	False	0.9819	True	False
+A0A0H3GV49	C	Structural mimic	False		0.8014	True	False	0.9651	True	False
+A0A0H3GUH0	C	Structural mimic	False		0.9101	True	False	0.9723	True	False
+A0A0H3GJA5	C2	Partial structural mimic	False		0.4865	True	True	0.9592	True	False
+A0A0H3GMX2	C	Structural mimic	False		0.6432	True	False	0.9851	True	False
+A0A0H3GQ63	C	Structural mimic	False		0.8344	True	False	0.9707	True	False
+A0A0H3GKG9	C	Structural mimic	False		0.699	True	False	0.9785	True	False
+A0A0H3GSN4	C	Structural mimic	False		0.764	True	False	0.9489	True	False
+A0A0H3GM85	C	Structural mimic	False		0.8663	True	False	0.9696	True	False
+A0A0H3GUE2	C	Structural mimic	False		0.7728	True	False	0.9796	True	False
+A0A0H3GZJ5	C	Structural mimic	False		0.7361	True	False	0.9548	True	False
+A0A0H3GR27	C2	Partial structural mimic	False		0.4163	True	True		True	False
+A0A0H3GLL0	C	Structural mimic	False		0.7151	True	False	0.9583	True	False
+A0A0H3GQD2	C	Structural mimic	False		0.8735	True	False	0.9781	True	False
+A0A0H3GYW4	C	Structural mimic	False		0.6936	True	False	0.9645	True	False
+A0A0H3GY32	C2	Partial structural mimic	False		0.3417	True	True	0.9585	True	False
+A0A0H3GQA8	C	Structural mimic	False		0.8003	True	False	0.9725	True	False
+A0A0H3GKF4	C	Structural mimic	False		0.7442	True	False	0.9698	True	False
+A0A0H3GNH7	C	Structural mimic	False		0.7513	True	False	0.9555	True	False
+A0A0H3GL47	C2	Partial structural mimic	False		0.4701	True	True	0.9729	True	False
+A0A0H3GSG5	C	Structural mimic	False		0.7839	True	False	0.9651	True	False
+A0A0H3GS88	C	Structural mimic	False		0.6048	True	False	0.9771	True	False
+A0A0H3H4X9	C	Structural mimic	False		0.8733	True	False	0.9854	True	False
+A0A0H3GKZ2	C2	Partial structural mimic	False		0.4626	True	True	0.9334	True	False
+A0A0H3GVV9	C	Structural mimic	False		0.7738	True	False	0.985	True	False
+A0A0H3GGQ3	C	Structural mimic	False		0.6842	True	False	0.9571	True	False
+A0A0H3GGT5	C2	Partial structural mimic	False		0.4206	True	True	0.9722	True	False
+A0A0H3GMQ0	C2	Partial structural mimic	False		0.3279	True	True	0.9398	True	False
+A0A0H3GWM4	C	Structural mimic	False		0.8312	True	False	0.9826	True	False
+A0A0H3GU02	C	Structural mimic	False		0.7899	True	False	0.9618	True	False
+A0A0H3GH05	C	Structural mimic	False		0.6055	True	False	0.9731	True	False
+A0A0H3GVB5	C	Structural mimic	False		0.6238	True	False	0.9737	True	False
+A0A0H3GUS7	C	Structural mimic	False		0.8501	True	False	0.9484	True	False
+A0A0H3GH32	C	Structural mimic	False		0.5274	True	False	0.985	True	False
+A0A0H3GNK9	C	Structural mimic	False		0.8477	True	False	0.9381	True	False
+A0A0H3GT30	C	Structural mimic	False		0.8527	True	False	0.9378	True	False
+A0A0H3GXJ4	C	Structural mimic	False		0.8962	True	False	0.9572	True	False
+A0A0H3GUZ8	C	Structural mimic	False		0.6697	True	False	0.8461	True	False
+A0A0H3GXC7	C	Structural mimic	False		0.9738	True	False	0.9862	True	False
+A0A0H3GWL1	C	Structural mimic	False		0.8034	True	False	0.9754	True	False
+A0A0H3GV65	C2	Partial structural mimic	False		0.369	True	True	0.8543	True	False
+A0A0H3GYU0	C2	Partial structural mimic	False		0.3701	True	True	0.9039	True	False
+A0A0H3GZN3	C	Structural mimic	False		0.7935	True	False	0.9739	True	False
+A0A0H3GQA5	C	Structural mimic	False		0.7624	True	False	0.9874	True	False
+A0A0H3GXC9	C	Structural mimic	False		0.5135	True	False	0.9157	True	False
+A0A0H3GXA4	C2	Partial structural mimic	False		0.3827	True	True	0.8901	True	False
+A0A0H3H019	C2	Partial structural mimic	False		0.4072	True	True	0.9759	True	False
+A0A0H3H4H0	C2	Partial structural mimic	False		0.3258	True	True	0.965	True	False
+A0A0H3GIB7	C2	Partial structural mimic	False		0.3068	True	True	0.8398	True	False
+A0A0H3GPR5	C2	Partial structural mimic	False		0.4652	True	True	0.9474	True	False
+A0A0H3GR53	C	Structural mimic	False		0.8387	True	False	0.9806	True	False
+A0A0H3H0G2	C	Structural mimic	False		0.8548	True	False	0.9485	True	False
+A0A0H3GKI9	C	Structural mimic	False		0.7736	True	False	0.9826	True	False
+A0A0H3H3M7	C	Structural mimic	False		0.6117	True	False	0.9546	True	False
+A0A0H3GIY8	C	Structural mimic	False		0.7705	True	False	0.9131	True	False
+A0A0H3GVF4	C	Structural mimic	False		0.6194	True	False	0.9734	True	False
+A0A0H3GNC3	C	Structural mimic	False		0.867	True	False	0.9646	True	False
+A0A0H3GW98	C	Structural mimic	False		0.6782	True	False	0.9737	True	False
+A0A0H3GRH7	C	Structural mimic	False		0.7954	True	False	0.9832	True	False
+A0A0H3GZE3	C	Structural mimic	False		0.638	True	False	0.9665	True	False
+A0A0H3GMB7	C	Structural mimic	False		0.6121	True	False	0.8808	True	False
+A0A0H3GQM8	C	Structural mimic	False		0.8347	True	False	0.9697	True	False
+A0A0H3GPI6	C	Structural mimic	False		0.5698	True	False	0.9713	True	False
+A0A0H3GUD0	C	Structural mimic	False		0.8553	True	False	0.9798	True	False
+A0A0H3GY08	C2	Partial structural mimic	False		0.4605	True	True	0.9682	True	False
+A0A0H3GMN6	C	Structural mimic	False		0.5924	True	False	0.9913	True	False
+A0A0H3GZJ1	C	Structural mimic	False		0.7127	True	False	0.9658	True	False
+A0A0H3H607	C2	Partial structural mimic	False		0.4179	True	True	0.978	True	False
+A0A0H3GRG2	C	Structural mimic	False		0.6466	True	False	0.9816	True	False
+A0A0H3GU47	C	Structural mimic	False		0.7228	True	False	0.9835	True	False
+A0A0H3H4M6	C	Structural mimic	False		0.8166	True	False	0.9692	True	False
+A0A0H3GRH3	C	Structural mimic	False		0.8017	True	False	0.9448	True	False
+A0A0H3GSY6	C2	Partial structural mimic	False		0.3297	True	True	0.8242	True	False
+A0A0H3GK74	C2	Partial structural mimic	False		0.3621	True	True	0.9864	True	False
+A0A0H3GYJ6	C	Structural mimic	False		0.6559	True	False	0.9576	True	False
+A0A0H3GK63	C	Structural mimic	False		0.9088	True	False	0.9747	True	False
+A0A0H3GRZ8	C	Structural mimic	False		0.7915	True	False	0.9765	True	False
+A0A0H3GRP8	C2	Partial structural mimic	False		0.3527	True	True	0.9671	True	False
+A0A0H3H044	C	Structural mimic	False		0.7159	True	False	0.9778	True	False
+A0A0H3GVI4	C	Structural mimic	False		0.6284	True	False	0.9602	True	False
+A0A0H3GLK1	C	Structural mimic	False		0.8641	True	False	0.9754	True	False
+A0A0H3GM92	C	Structural mimic	False		0.7798	True	False	0.972	True	False
+A0A0H3H2E4	C2	Partial structural mimic	False		0.3741	True	True	0.866	True	False
+A0A0H3GH41	C	Structural mimic	False		0.7058	True	False	0.9626	True	False
+A0A0H3GW91	C	Structural mimic	False		0.5575	True	False	0.965	True	False
+A0A0H3GLM3	C2	Partial structural mimic	False		0.4156	True	True	0.9466	True	False
+A0A0H3GT14	C	Structural mimic	False		0.5103	True	False	0.9763	True	False
+A0A0H3GV12	C	Structural mimic	False		0.5333	True	False	0.9565	True	False
+A0A0H3GQK7	C	Structural mimic	False		0.7423	True	False	0.9097	True	False
+A0A0H3GI24	C	Structural mimic	False		0.5347	True	False	0.9884	True	False
+A0A0H3GY97	C	Structural mimic	False		0.655	True	False	0.9499	True	False
+A0A0H3GTQ2	C	Structural mimic	False		0.6141	True	False	0.9816	True	False
+A0A0H3GPZ9	C	Structural mimic	False		0.5639	True	False		True	False
+A0A0H3GI71	C2	Partial structural mimic	False		0.4786	True	True	0.884	True	False
+A0A0H3GSC2	C	Structural mimic	False		0.8986	True	False	0.9863	True	False
+A0A0H3GL11	C	Structural mimic	False		0.6995	True	False	0.9268	True	False
+A0A0H3GWL9	C	Structural mimic	False		0.6766	True	False	0.9852	True	False
+A0A0H3GVK5	C2	Partial structural mimic	False		0.4264	True	True	0.9766	True	False
+A0A0H3GIK1	C	Structural mimic	False		0.6169	True	False	0.9702	True	False
+A0A0H3GPY8	C2	Partial structural mimic	False		0.4762	True	True	0.9485	True	False
+A0A0H3GT64	C	Structural mimic	False		0.8001	True	False	0.9705	True	False
+A0A0H3GL18	C	Structural mimic	False		0.8002	True	False	0.9855	True	False
+A0A0H3GX85	C	Structural mimic	False		0.6277	True	False	0.9236	True	False
+A0A0H3GXZ5	C	Structural mimic	False		0.8593	True	False	0.9879	True	False
+A0A0H3GXZ9	C	Structural mimic	False		0.7089	True	False	0.9815	True	False
+A0A0H3GJ04	C2	Partial structural mimic	False		0.4346	True	True	0.9492	True	False
+A0A0H3GRW6	C	Structural mimic	False		0.7142	True	False	0.9202	True	False
+A0A0H3GVM4	C	Structural mimic	False		0.5121	True	False	0.9757	True	False
+A0A0H3GQX8	C	Structural mimic	False		0.7253	True	False	0.9788	True	False
+A0A0H3GWZ7	C2	Partial structural mimic	False		0.364	True	True	0.9388	True	False
+A0A0H3GQC9	C	Structural mimic	False		0.7634	True	False	0.9626	True	False
+A0A0H3GU63	C	Structural mimic	False		0.7128	True	False	0.9598	True	False
+A0A0H3GQM7	C	Structural mimic	False		0.815	True	False	0.9315	True	False
+A0A0H3H079	C	Structural mimic	False		0.7697	True	False	0.9658	True	False
+A0A0H3GUB6	C	Structural mimic	False		0.6859	True	False	0.9909	True	False
+A0A0H3GK07	C	Structural mimic	False		0.7191	True	False	0.8848	True	False
+A0A0H3GIS7	C	Structural mimic	False		0.8144	True	False	0.9721	True	False
+A0A0H3GTQ3	C	Structural mimic	False		0.6551	True	False	0.9828	True	False
+A0A0H3GPG8	C	Structural mimic	False		0.6629	True	False	0.9477	True	False
+A0A0H3GU98	C	Structural mimic	False		0.6014	True	False	0.9432	True	False
+A0A0H3GVC1	C2	Partial structural mimic	False		0.4133	True	True	0.9745	True	False
+A0A0H3H4K6	C2	Partial structural mimic	False		0.392	True	True	0.9582	True	False
+A0A0H3GP38	C	Structural mimic	False		0.9429	True	False	0.9699	True	False
+A0A0H3GUS5	C	Structural mimic	False		0.6625	True	False	0.9644	True	False
+A0A0H3GI87	C2	Partial structural mimic	False		0.4909	True	True	0.9284	True	False
+A0A0H3GRK9	C	Structural mimic	False		0.6458	True	False	0.9608	True	False
+A0A0H3GLC9	C2	Partial structural mimic	False		0.3914	True	True	0.9535	True	False
+A0A0H3GUG0	C	Structural mimic	False		0.5659	True	False	0.9859	True	False
+A0A0H3GL77	C	Structural mimic	False		0.7824	True	False	0.9843	True	False
+A0A0H3GT81	C	Structural mimic	False		0.888	True	False	0.9483	True	False
+A0A0H3GYV1	C	Structural mimic	False		0.8276	True	False	0.9697	True	False
+A0A0H3GMT3	C	Structural mimic	False		0.6901	True	False	0.9581	True	False
+A0A0H3H045	C2	Partial structural mimic	False		0.3905	True	True	0.9465	True	False
+A0A0H3GLQ3	C	Structural mimic	False		0.8787	True	False	0.9511	True	False
+A0A0H3GZC4	C	Structural mimic	False		0.5293	True	False	0.9315	True	False
+A0A0H3GV45	C	Structural mimic	False		0.6041	True	False	0.9602	True	False
+A0A0H3GTL9	C	Structural mimic	False		0.7782	True	False	0.9833	True	False
+A0A0H3GY43	C	Structural mimic	False		0.8194	True	False	0.9486	True	False
+A0A0H3GX57	C	Structural mimic	False		0.6477	True	False	0.9782	True	False
+A0A0H3GPF1	C	Structural mimic	False		0.853	True	False	0.9754	True	False
+A0A0H3GRG9	C	Structural mimic	False		0.5255	True	False	0.9889	True	False
+A0A0H3GT03	C	Structural mimic	False		0.5836	True	False	0.9574	True	False
+A0A0H3GSR2	C2	Partial structural mimic	False		0.4659	True	True	0.9725	True	False
+A0A0H3GUE5	C	Structural mimic	False		0.6737	True	False	0.9344	True	False
+A0A0H3GGL0	C	Structural mimic	False		0.7487	True	False	0.9891	True	False
+A0A0H3GX20	C	Structural mimic	False		0.5096	True	False	0.9809	True	False
+A0A0H3GW89	C	Structural mimic	False		0.7139	True	False	0.9868	True	False
+A0A0H3GN71	C	Structural mimic	False		0.7792	True	False	0.9655	True	False
+A0A0H3GRV0	C	Structural mimic	False		0.6953	True	False	0.9343	True	False
+A0A0H3GWR3	C2	Partial structural mimic	False		0.3665	True	True	0.9701	True	False
+A0A0H3GUW6	C	Structural mimic	False		0.7977	True	False	0.963	True	False
+A0A0H3GWL3	C	Structural mimic	False		0.7892	True	False	0.991	True	False
+A0A0H3GSL5	C	Structural mimic	False		0.7791	True	False	0.919	True	False
+A0A0H3GVW9	C	Structural mimic	False		0.7319	True	False	0.9371	True	False
+A0A0H3H4J2	C	Structural mimic	False		0.7975	True	False	0.986	True	False
+A0A0H3GRG3	C	Structural mimic	False		0.5791	True	False	0.967	True	False
+A0A0H3GVX9	C2	Partial structural mimic	False		0.4306	True	True	0.9728	True	False
+A0A0H3GWQ8	C	Structural mimic	False		0.7385	True	False	0.9066	True	False
+A0A0H3H006	C2	Partial structural mimic	False		0.4301	True	True	0.9754	True	False
+A0A0H3GU10	C	Structural mimic	False		0.8385	True	False	0.9775	True	False
+A0A0H3GK43	C	Structural mimic	False		0.9663	True	False	0.9757	True	False
+A0A0H3GSP9	C	Structural mimic	False		0.5721	True	False	0.9465	True	False
+A0A0H3GRM8	C2	Partial structural mimic	False		0.4678	True	True	0.9845	True	False
+A0A0H3GXB7	C	Structural mimic	False		0.9247	True	False	0.9722	True	False
+A0A0H3GYH6	C	Structural mimic	False		0.8518	True	False	0.9734	True	False
+A0A0H3GRI0	C	Structural mimic	False		0.7779	True	False	0.965	True	False
+A0A0H3GTK3	C	Structural mimic	False		0.7481	True	False	0.9579	True	False
+A0A0H3GQ70	C	Structural mimic	False		0.9599	True	False	0.9835	True	False
+A0A0H3GR23	C	Structural mimic	False		0.8951	True	False	0.956	True	False
+A0A0H3GQP6	C	Structural mimic	False		0.8027	True	False	0.9785	True	False
+A0A0H3GSV2	C	Structural mimic	False		0.738	True	False	0.9801	True	False
+A0A0H3GWC1	C2	Partial structural mimic	False		0.4754	True	True	0.9171	True	False
+A0A0H3GGD2	C	Structural mimic	False		0.5344	True	False	0.9864	True	False
+A0A0H3GSP3	C	Structural mimic	False		0.7936	True	False	0.9498	True	False
+A0A0H3GRF4	C	Structural mimic	False		0.7219	True	False	0.9747	True	False
+A0A0H3GKU6	C	Structural mimic	False		0.5518	True	False		True	False
+A0A0H3GXY3	C	Structural mimic	False		0.8582	True	False	0.952	True	False
+A0A0H3GQC8	C	Structural mimic	False		0.6821	True	False	0.921	True	False
+A0A0H3GR04	C2	Partial structural mimic	False		0.4389	True	True	0.9248	True	False
+A0A0H3GP19	C2	Partial structural mimic	False		0.4156	True	True	0.8819	True	False
+A0A0H3GRM9	C	Structural mimic	False		0.8696	True	False	0.9323	True	False
+A0A0H3GSP2	C	Structural mimic	False		0.7298	True	False	0.9608	True	False
+A0A0H3H0E9	C2	Partial structural mimic	False		0.4038	True	True	0.9757	True	False
+A0A0H3GNB7	C	Structural mimic	False		0.6689	True	False	0.9787	True	False
+A0A0H3H3Y3	C2	Partial structural mimic	False		0.4615	True	True	0.9328	True	False
+A0A0H3H3K6	C2	Partial structural mimic	False		0.3519	True	True	0.9185	True	False
+A0A0H3GIJ8	C	Structural mimic	False		0.5928	True	False	0.9218	True	False
+A0A0H3GT61	C	Structural mimic	False		0.6498	True	False	0.9816	True	False
+A0A0H3GWM8	C2	Partial structural mimic	False		0.3258	True	True	0.9053	True	False
+A0A0H3GRQ0	C	Structural mimic	False		0.5375	True	False	0.8811	True	False
+A0A0H3GKK7	C2	Partial structural mimic	False		0.4996	True	True	0.9441	True	False
+A0A0H3GLT3	C	Structural mimic	False		0.7482	True	False	0.9809	True	False
+A0A0H3GMJ7	C	Structural mimic	False		0.796	True	False	0.9819	True	False
+A0A0H3H0P6	C	Structural mimic	False		0.8737	True	False	0.9797	True	False
+A0A0H3GKK4	C	Structural mimic	False		0.6091	True	False	0.9812	True	False
+A0A0H3H106	C	Structural mimic	False		0.7992	True	False	0.9754	True	False
+A0A0H3GVW5	C2	Partial structural mimic	False		0.4485	True	True		True	False
+A0A0H3GU33	C2	Partial structural mimic	False		0.3246	True	True	0.9024	True	False
+A0A0H3GX90	C	Structural mimic	False		0.7787	True	False	0.9707	True	False
+A0A0H3GUU8	C	Structural mimic	False		0.8013	True	False	0.9911	True	False
+A0A0H3GW07	C2	Partial structural mimic	False		0.4134	True	True		True	False
+A0A0H3GQL1	C2	Partial structural mimic	False		0.3935	True	True	0.9076	True	False
+A0A0H3GLS0	C	Structural mimic	False		0.7472	True	False	0.948	True	False
+A0A0H3GYK6	C2	Partial structural mimic	False		0.4365	True	True	0.97	True	False
+A0A0H3GKF5	C	Structural mimic	False		0.845	True	False	0.9498	True	False
+A0A0H3H3T6	C2	Partial structural mimic	False		0.4636	True	True	0.9359	True	False
+A0A0H3GXF7	C	Structural mimic	False		0.6415	True	False	0.9839	True	False
+A0A0H3GV23	C	Structural mimic	False		0.8343	True	False	0.9726	True	False
+A0A0H3GNC0	C2	Partial structural mimic	False		0.4401	True	True	0.8775	True	False
+A0A0H3GTF9	C	Structural mimic	False		0.7249	True	False	0.9515	True	False
+A0A0H3GSY5	C	Structural mimic	False		0.6677	True	False	0.979	True	False
+A0A0H3H0T6	C2	Partial structural mimic	False		0.3168	True	True	0.8506	True	False
+A0A0H3GJI7	C	Structural mimic	False		0.7313	True	False	0.9847	True	False
+A0A0H3GNL5	C	Structural mimic	False		0.6451	True	False	0.8933	True	False
+A0A0H3GYC9	C2	Partial structural mimic	False		0.4186	True	True	0.889	True	False
+A0A0H3GNH4	C	Structural mimic	False		0.7943	True	False	0.9594	True	False
+A0A0H3GZU9	C	Structural mimic	False		0.7011	True	False	0.9766	True	False
+A0A0H3GSM7	C	Structural mimic	False		0.7918	True	False	0.9812	True	False
+A0A0H3GPT9	C	Structural mimic	False		0.7715	True	False	0.9636	True	False
+A0A0H3GIK3	C2	Partial structural mimic	False		0.3643	True	True	0.968	True	False
+A0A0H3GZX6	C	Structural mimic	False		0.8278	True	False	0.9497	True	False
+A0A0H3GRA8	C	Structural mimic	False		0.6908	True	False	0.9749	True	False
+A0A0H3GTM0	C	Structural mimic	False		0.8797	True	False	0.9692	True	False
+A0A0H3GUX7	C	Structural mimic	False		0.8705	True	False	0.9797	True	False
+A0A0H3GQS4	C2	Partial structural mimic	False		0.466	True	True	0.9524	True	False
+A0A0H3GQB8	C	Structural mimic	False		0.6317	True	False	0.9202	True	False
+A0A0H3GGJ2	C	Structural mimic	False		0.6658	True	False	0.9389	True	False
+A0A0H3GZ86	C	Structural mimic	False		0.8777	True	False	0.9794	True	False
+A0A0H3GI02	C	Structural mimic	False		0.8869	True	False	0.9876	True	False
+A0A0H3GXK7	C	Structural mimic	False		0.5264	True	False	0.9585	True	False
+A0A0H3GKF8	C	Structural mimic	False		0.5461	True	False	0.9547	True	False
+A0A0H3GNT9	C	Structural mimic	False		0.652	True	False	0.9756	True	False
+A0A0H3GNC6	C	Structural mimic	False		0.7059	True	False	0.9553	True	False
+A0A0H3GVK1	C	Structural mimic	False		0.8091	True	False	0.9721	True	False
+A0A0H3GWK8	C2	Partial structural mimic	False		0.4129	True	True	0.9887	True	False
+A0A0H3GPV5	C	Structural mimic	False		0.5307	True	False	0.9291	True	False
+A0A0H3GKG4	C	Structural mimic	False		0.8094	True	False	0.9544	True	False
+A0A0H3GLJ4	C	Structural mimic	False		0.7512	True	False	0.9886	True	False
+A0A0H3GW81	C	Structural mimic	False		0.749	True	False	0.9545	True	False
+A0A0H3GXU5	C	Structural mimic	False		0.5498	True	False	0.9574	True	False
+A0A0H3GGU5	C	Structural mimic	False		0.7348	True	False	0.965	True	False
+A0A0H3GPX7	C	Structural mimic	False		0.7364	True	False	0.9281	True	False
+A0A0H3GXL9	C	Structural mimic	False		0.8548	True	False	0.9726	True	False
+A0A0H3GZ11	C	Structural mimic	False		0.5512	True	False	0.9336	True	False
+A0A0H3GZK0	C	Structural mimic	False		0.6486	True	False	0.9714	True	False
+A0A0H3GT31	C	Structural mimic	False		0.5722	True	False	0.9533	True	False
+A0A0H3GST3	C	Structural mimic	False		0.6606	True	False	0.9618	True	False
+A0A0H3GSK8	C2	Partial structural mimic	False		0.457	True	True	0.9713	True	False
+A0A0H3GW40	C	Structural mimic	False		0.7663	True	False	0.9835	True	False
+A0A0H3GNX8	C2	Partial structural mimic	False		0.3456	True	True	0.9868	True	False
+A0A0H3GHY4	C2	Partial structural mimic	False		0.3974	True	True	0.9678	True	False
+A0A0H3GU57	C	Structural mimic	False		0.7569	True	False	0.9495	True	False
+A0A0H3GJW0	C	Structural mimic	False		0.8091	True	False	0.9903	True	False
+A0A0H3GXJ0	C2	Partial structural mimic	False		0.3202	True	True	0.8606	True	False
+A0A0H3GNF2	C	Structural mimic	False		0.6114	True	False	0.978	True	False
+A0A0H3GLF5	C2	Partial structural mimic	False		0.49	True	True	0.9282	True	False
+A0A0H3GZJ7	C	Structural mimic	False		0.5772	True	False	0.9802	True	False
+A0A0H3GNW7	C	Structural mimic	False		0.6812	True	False	0.9068	True	False
+A0A0H3GK44	C	Structural mimic	False		0.6942	True	False	0.9603	True	False
+A0A0H3GIQ4	C	Structural mimic	False		0.5281	True	False	0.9778	True	False
+A0A0H3GKD0	C	Structural mimic	False		0.6561	True	False	0.929	True	False
+A0A0H3GMI1	C	Structural mimic	False		0.8486	True	False	0.9817	True	False
+A0A0H3GUY5	C	Structural mimic	False		0.834	True	False	0.9685	True	False
+A0A0H3GW77	C2	Partial structural mimic	False		0.4157	True	True	0.9766	True	False
+A0A0H3GWV4	C	Structural mimic	False		0.7831	True	False	0.9711	True	False
+A0A0H3GWB3	C	Structural mimic	False		0.7647	True	False	0.9647	True	False
+A0A0H3GVR4	C2	Partial structural mimic	False		0.3952	True	True	0.9818	True	False
+A0A0H3GNY8	C	Structural mimic	False		0.8051	True	False	0.9599	True	False
+A0A0H3GIX7	C	Structural mimic	False		0.8119	True	False	0.9744	True	False
+A0A0H3GHS8	C2	Partial structural mimic	False		0.4294	True	True	0.9838	True	False
+A0A0H3GQM9	C	Structural mimic	False		0.587	True	False	0.9751	True	False
+A0A0H3GUB2	C	Structural mimic	False		0.8372	True	False	0.9811	True	False
+A0A0H3GZT1	C	Structural mimic	False		0.5412	True	False	0.9826	True	False
+A0A0H3GVV3	C	Structural mimic	False		0.8366	True	False	0.9433	True	False
+A0A0H3GK05	C	Structural mimic	False		0.6381	True	False	0.9364	True	False
+A0A0H3GJP5	C	Structural mimic	False		0.7252	True	False	0.9888	True	False
+A0A0H3GTZ7	C	Structural mimic	False		0.6113	True	False	0.9366	True	False
+A0A0H3GUI0	C	Structural mimic	False		0.7349	True	False	0.9724	True	False
+A0A0H3GWX7	C	Structural mimic	False		0.7553	True	False	0.9743	True	False
+A0A0H3GI67	C2	Partial structural mimic	False		0.4651	True	True	0.9801	True	False
+A0A0H3GY67	C	Structural mimic	False		0.5721	True	False	0.9211	True	False
+A0A0H3GQB4	C	Structural mimic	False		0.8743	True	False	0.953	True	False
+A0A0H3GYM1	C	Structural mimic	False		0.7569	True	False	0.9024	True	False
+A0A0H3GNM2	C	Structural mimic	False		0.6653	True	False	0.9246	True	False
+A0A0H3GPR6	C	Structural mimic	False		0.9107	True	False	0.9347	True	False
+A0A0H3H0W3	C	Structural mimic	False		0.8239	True	False	0.9378	True	False
+A0A0H3GH77	C	Structural mimic	False		0.6888	True	False	0.9636	True	False
+A0A0H3GZ91	C	Structural mimic	False		0.6167	True	False	0.9874	True	False
+A0A0H3GJ64	C	Structural mimic	False		0.5896	True	False	0.9671	True	False
+A0A0H3GW27	C	Structural mimic	False		0.6888	True	False	0.896	True	False
+A0A0H3GWG6	C	Structural mimic	False		0.5866	True	False	0.9481	True	False
+A0A0H3GWB2	C	Structural mimic	False		0.6388	True	False	0.9888	True	False
+A0A0H3GQF4	C	Structural mimic	False		0.8023	True	False	0.9747	True	False
+A0A0H3GUM9	C2	Partial structural mimic	False		0.422	True	True		True	False
+A0A0H3GRG5	C	Structural mimic	False		0.6421	True	False	0.9049	True	False
+A0A0H3GNZ3	C	Structural mimic	False		0.7878	True	False	0.9733	True	False
+A0A0H3GU55	C	Structural mimic	False		0.6894	True	False	0.8636	True	False
+A0A0H3GVI6	C	Structural mimic	False		0.5698	True	False	0.8828	True	False
+A0A0H3GQG9	C2	Partial structural mimic	False		0.4453	True	True	0.96	True	False
+A0A0H3GUW7	C	Structural mimic	False		0.8598	True	False	0.9697	True	False
+A0A0H3GI63	C	Structural mimic	False		0.6836	True	False	0.9477	True	False
+A0A0H3H3I7	C	Structural mimic	False		0.5806	True	False	0.9316	True	False
+A0A0H3GI29	C	Structural mimic	False		0.8747	True	False	0.9639	True	False
+A0A0H3GKC0	C	Structural mimic	False		0.8383	True	False	0.9746	True	False
+A0A0H3H502	C2	Partial structural mimic	False		0.433	True	True	0.973	True	False
+A0A0H3GVP4	C	Structural mimic	False		0.7304	True	False	0.9436	True	False
+A0A0H3GKY7	C	Structural mimic	False		0.8823	True	False	0.9751	True	False
+A0A0H3H4R6	C	Structural mimic	False		0.8255	True	False	0.9712	True	False
+A0A0H3GPZ8	C	Structural mimic	False		0.6728	True	False	0.9599	True	False
+A0A0H3GLW3	C	Structural mimic	False		0.6225	True	False	0.9722	True	False
+A0A0H3GP94	C	Structural mimic	False		0.6793	True	False	0.9781	True	False
+A0A0H3H0J5	C	Structural mimic	False		0.5308	True	False	0.9483	True	False
+A0A0H3GMV7	C	Structural mimic	False		0.7792	True	False	0.9841	True	False
+A0A0H3GUF0	C2	Partial structural mimic	False		0.3947	True	True	0.9749	True	False
+A0A0H3GVH8	C	Structural mimic	False		0.7829	True	False	0.9791	True	False
+A0A0H3GNY6	C	Structural mimic	False		0.7869	True	False	0.9639	True	False
+A0A0H3GP61	C	Structural mimic	False		0.8327	True	False	0.9631	True	False
+A0A0H3GW13	C	Structural mimic	False		0.9488	True	False	0.9616	True	False
+A0A0H3GWA2	C	Structural mimic	False		0.8173	True	False	0.9173	True	False
+A0A0H3GRB7	C	Structural mimic	False		0.796	True	False	0.9784	True	False
+A0A0H3GR16	C	Structural mimic	False		0.7799	True	False	0.978	True	False
+A0A0H3GRK5	C	Structural mimic	False		0.5341	True	False	0.9524	True	False
+A0A0H3GGP0	C	Structural mimic	False		0.5262	True	False		True	False
+A0A0H3GWU7	C	Structural mimic	False		0.668	True	False	0.954	True	False
+A0A0H3GM25	C	Structural mimic	False		0.713	True	False	0.9305	True	False
+A0A0H3H0G8	C2	Partial structural mimic	False		0.3918	True	True	0.9719	True	False
+A0A0H3GLM1	C	Structural mimic	False		0.5788	True	False	0.9622	True	False
+A0A0H3GJH7	C	Structural mimic	False		0.5982	True	False	0.9712	True	False
+A0A0H3GSY3	C2	Partial structural mimic	False		0.4188	True	True	0.9737	True	False
+A0A0H3GY18	C	Structural mimic	False		0.836	True	False	0.9221	True	False
+A0A0H3GZ34	C2	Partial structural mimic	False		0.3202	True	True	0.9189	True	False
+A0A0H3GMD9	C	Structural mimic	False		0.8183	True	False	0.9747	True	False
+A0A0H3GP42	C	Structural mimic	False		0.791	True	False	0.9707	True	False
+A0A0H3GKA2	C2	Partial structural mimic	False		0.3458	True	True	0.9665	True	False
+A0A0H3GXH9	C	Structural mimic	False		0.6166	True	False	0.9733	True	False
+A0A0H3GMC8	C	Structural mimic	False		0.5388	True	False	0.9661	True	False
+A0A0H3GVY4	C	Structural mimic	False		0.6906	True	False	0.933	True	False
+A0A0H3GT45	C	Structural mimic	False		0.7637	True	False	0.9902	True	False
+A0A0H3GTT4	C	Structural mimic	False		0.6187	True	False	0.9752	True	False
+A0A0H3GTB8	C	Structural mimic	False		0.799	True	False	0.9674	True	False
+A0A0H3H494	C	Structural mimic	False		0.7499	True	False	0.9707	True	False
+A0A0H3GS03	C	Structural mimic	False		0.7039	True	False	0.9574	True	False
+A0A0H3GSG7	C	Structural mimic	False		0.6892	True	False	0.8334	True	False
+A0A0H3GIJ4	C	Structural mimic	False		0.5148	True	False	0.9783	True	False
+A0A0H3GUS3	C	Structural mimic	False		0.6613	True	False	0.9451	True	False
+A0A0H3GKI7	C	Structural mimic	False		0.5239	True	False	0.9395	True	False
+A0A0H3GXW9	C	Structural mimic	False		0.8652	True	False	0.9518	True	False
+A0A0H3GML6	C	Structural mimic	False		0.7013	True	False	0.9504	True	False
+A0A0H3H064	C2	Partial structural mimic	False		0.4358	True	True	0.9837	True	False
+A0A0H3GMT6	C	Structural mimic	False		0.7252	True	False	0.9729	True	False
+A0A0H3GTG1	C	Structural mimic	False		0.7582	True	False	0.9849	True	False
+A0A0H3GYJ5	C	Structural mimic	False		0.9318	True	False	0.9835	True	False
+A0A0H3GVS0	C	Structural mimic	False		0.8325	True	False	0.9792	True	False
+A0A0H3GSQ6	C	Structural mimic	False		0.7674	True	False	0.9695	True	False
+A0A0H3GYA3	C2	Partial structural mimic	False		0.4573	True	True	0.981	True	False
+A0A0H3H053	C	Structural mimic	False		0.5616	True	False	0.9425	True	False
+A0A0H3GVE9	C	Structural mimic	False		0.7156	True	False	0.9725	True	False
+A0A0H3GVL5	C	Structural mimic	False		0.813	True	False	0.9677	True	False
+A0A0H3GTC4	C	Structural mimic	False		0.8295	True	False	0.9783	True	False
+A0A0H3GP70	C	Structural mimic	False		0.8483	True	False	0.9836	True	False
+A0A0H3H3E4	C	Structural mimic	False		0.7485	True	False	0.9556	True	False
+A0A0H3GM80	C	Structural mimic	False		0.7915	True	False	0.9659	True	False
+A0A0H3GMU6	C	Structural mimic	False		0.6784	True	False	0.9849	True	False
+A0A0H3GKV4	C	Structural mimic	False		0.8071	True	False	0.947	True	False
+A0A0H3GWZ1	C	Structural mimic	False		0.6794	True	False	0.9701	True	False
+A0A0H3GKX1	C	Structural mimic	False		0.7272	True	False	0.9598	True	False
+A0A0H3GY29	C	Structural mimic	False		0.8038	True	False	0.9754	True	False
+A0A0H3GXZ6	C	Structural mimic	False		0.7506	True	False	0.9744	True	False

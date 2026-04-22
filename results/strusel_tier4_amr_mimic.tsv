@@ -1,0 +1,8 @@
+accession	category	label	seq_hit	pident	tm_score	struct_hit	is_mimic	esm2_cos	essential	amr_associated
+A0A0H3GSI5	C	Structural mimic	False		0.6038	True	False	0.948	True	True
+A0A0H3GZY9	C	Structural mimic	False		0.6124	True	False	0.9645	True	True
+A0A0H3GZK9	C	Structural mimic	False		0.5876	True	False	0.9219	True	True
+A0A0H3GZQ8	C	Structural mimic	False		0.5686	True	False	0.9718	True	True
+A0A0H3GXN0	C	Structural mimic	False		0.761	True	False	0.9714	True	True
+A0A0H3GU91	C	Structural mimic	False		0.6321	True	False	0.8801	True	True
+A0A0H3H1U8	C	Structural mimic	False		0.7883	True	False	0.9483	True	True

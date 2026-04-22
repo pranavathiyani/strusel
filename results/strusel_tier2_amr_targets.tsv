@@ -1,0 +1,17 @@
+accession	category	label	seq_hit	pident	tm_score	struct_hit	is_mimic	esm2_cos	essential	amr_associated
+A0A0H3GN41	D*	High-confidence StruSel candidate	False		0.0	False	False	0.7318	True	True
+A0A0H3GP47	D*	High-confidence StruSel candidate	False		0.0	False	False	0.6642	True	True
+A0A0H3GT75	D*	High-confidence StruSel candidate	False		0.0	False	False	0.861	True	True
+A0A0H3GI56	D*	High-confidence StruSel candidate	False		0.0	False	False	0.8596	True	True
+A0A0H3GPF5	D*	High-confidence StruSel candidate	False		0.0	False	False	0.9443	True	True
+A0A0H3GW05	D*	High-confidence StruSel candidate	False		0.0	False	False	0.7042	True	True
+A0A0H3GMF8	D	StruSel candidate	False		0.1398	False	False	0.9376	True	True
+A0A0H3GYD6	D*	High-confidence StruSel candidate	False		0.0	False	False	0.7531	True	True
+A0A0H3H0N5	D*	High-confidence StruSel candidate	False		0.0	False	False	0.8393	True	True
+A0A0H3GSG4	D*	High-confidence StruSel candidate	False		0.0	False	False	0.9456	True	True
+A0A0H3GN85	D*	High-confidence StruSel candidate	False		0.0	False	False	0.8014	True	True
+A0A0H3GMF7	D*	High-confidence StruSel candidate	False		0.0	False	False	0.8273	True	True
+A0A0H3GMH3	D*	High-confidence StruSel candidate	False		0.0	False	False	0.9107	True	True
+A0A0H3GWJ4	D*	High-confidence StruSel candidate	False		0.0	False	False	0.8393	True	True
+A0A0H3GZI4	D*	High-confidence StruSel candidate	False		0.0	False	False	0.9374	True	True
+A0A0H3GUK1	D*	High-confidence StruSel candidate	False		0.0	False	False	0.9534	True	True
